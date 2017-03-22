@@ -1,0 +1,59 @@
+body
+{
+  overflow: hidden;
+  background: #000000;
+}
+
+#speccanvas
+{
+  outline: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 256px;
+  height: 90px;
+  background: #000000;
+}
+
+#wfalcanvas
+{
+  outline: 0px;
+  position: absolute;
+  left: 0px;
+  top: 110px;
+  width: 256px;
+  height: 190px;
+  background: #000000;
+}
+
+#freq
+{
+  outline: 0px;
+  position: absolute;
+  left: 206px;
+  top: 90px;
+  width: 50px;
+  height: 20px;
+  background: #000000;
+  color: #ffffff;
+  text-align: right;
+  font-size: 15px;
+  vertical-align: middle;
+  line-height: 20px;
+}
+
+#freq1
+{
+  outline: 0px;
+  position: absolute;
+  left: 0px;
+  top: 90px;
+  width: 50px;
+  height: 20px;
+  background: #000000;
+  color: #ffffff;
+  text-align: left;
+  font-size: 15px;
+  vertical-align: middle;
+  line-height: 20px;
+}

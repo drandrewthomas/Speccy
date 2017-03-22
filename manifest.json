@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Speccy",
+  "short_name": "Speccy",
+  "description": "Spectrum Analyzer",
+  "version": "0.0.1",
+  "minimum_chrome_version": "38",
+
+  "permissions": [
+    "audioCapture"
+  ],
+
+  "icons": {
+    "16": "assets/icon_16.png",
+    "128": "assets/icon_128.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
