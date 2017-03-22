@@ -1,4 +1,4 @@
-# Speccy - The Amateur Radio Spectrum Analyzer
+# Speccy - The Chrome OS Amateur Radio Spectrum Analyzer
 
 Speccy is a simple spectrum analyzer app available free on the ChromeOS webstore: https://chrome.google.com/webstore/detail/speccy/jajjhmhlemmokkafbebdacciakdbpcdg
 
